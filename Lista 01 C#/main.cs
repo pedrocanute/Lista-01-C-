@@ -2,7 +2,7 @@
 {
     static void Main()
     {
-        Exercicio3.Executar();
+        Exercicio7.Executar();
         
     }
 }
