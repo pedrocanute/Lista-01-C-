@@ -1,4 +1,4 @@
-﻿public class Exercicio1
+﻿public class Exercicio01
 {
     public static void Executar()
     {

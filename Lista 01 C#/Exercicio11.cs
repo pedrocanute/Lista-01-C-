@@ -1,7 +1,4 @@
-﻿using System.Numerics;
-using System.Runtime.Intrinsics.X86;
-
-public class Exercicio11
+﻿public class Exercicio11
 {
     public static void Executar()
     {
